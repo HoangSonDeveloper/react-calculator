@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Try this app on https://hoangson-calculator.surge.sh/
 
 ## Available Scripts
 
