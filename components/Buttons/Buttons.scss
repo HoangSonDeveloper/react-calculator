@@ -1,0 +1,26 @@
+.btn {
+    width: 25%;
+    height: 100%;
+    padding: 0;
+    font-size: 60px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #f67280;
+    color: white;
+
+    &-wide {
+        width: 50%;
+    }
+
+    &-red {
+        background-color: #cd6c84;
+        color: rgb(255, 255, 255);
+    }
+
+    &-group {
+        height: 80vh;
+    }
+
+    &-row {
+        height: 20%;
+    }
+}
